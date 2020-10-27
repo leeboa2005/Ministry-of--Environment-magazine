@@ -1,1 +1,1 @@
-# Ministry-of--Environment-magazine
+# 환경부메거진 홈페이지 (개인포트폴리오)
