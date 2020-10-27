@@ -47,6 +47,7 @@
 	border: 0;
 	border-radius: 0.3em;
 	font-size: 1rem;
+	border: 1.5px solid rgb(187, 187, 187);
 }
 .search-form input[type='submit'] {
 	width: 3.5em;

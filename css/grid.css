@@ -71,10 +71,10 @@ label[for="modal-switch"] span {
 	opacity: 0;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1084px) {
 	.page {
 		display: grid;
-		grid-template-columns: 20% 1fr 20%;
+		grid-template-columns: 23% 1fr 23%;
 		grid-template-areas:
 			"  header    header    header   "
 			"   menu      menu      menu    "
@@ -118,6 +118,11 @@ label[for="modal-switch"] span {
 	max-width:100% !important;
    }
 	
+}
+@media (min-width: 1224px) {
+	.page {
+		grid-template-columns: 20% 1fr 20%;
+	}
 }
 @media (min-width: 1400px) {
 	.page {
